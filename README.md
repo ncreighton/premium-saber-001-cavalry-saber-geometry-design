@@ -1,0 +1,2 @@
+# premium-saber-001-cavalry-saber-geometry-design
+Tired of chaotic saber practice with no clear progression? The Cavalry Saber Geometry Design Planner brings geometric precision to your training, turning every drill into a calculated step toward mastery.  This Notion template replaces guesswork with a structured system that maps each saber technique to a geometric shape, so you can track volume, a
